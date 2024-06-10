@@ -10,12 +10,15 @@ ________________________
 Images
 ________________________
 - Base Application
+
 ![Alt Text](https://github.com/nem-bla/tongs/blob/master/images/app.png?raw=true)
 
 - Translation
+
 ![Alt Text](https://github.com/nem-bla/tongs/blob/master/images/translation.png?raw=true)
 
 - Tranlsation History
+
 ![Alt Text](https://github.com/nem-bla/tongs/blob/master/images/history.png?raw=true)
 
 Installation
