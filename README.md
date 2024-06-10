@@ -49,10 +49,3 @@ ________________________
 ```bash
     python main.py
 ```
-
-
-Usage
-________________________
-- insert how to use the project
-
-
