@@ -52,5 +52,11 @@
         "target": "Serbian",
         "text": "Hello",
         "translation": "Zdravo."
+    },
+    {
+        "origin": "English",
+        "target": "Spanish",
+        "text": "Hello, how are you? My name is Tongs. ",
+        "translation": "\u00a1Hola, \u00bfc\u00f3mo est\u00e1s? Mi nombre es Tongs."
     }
 ]
